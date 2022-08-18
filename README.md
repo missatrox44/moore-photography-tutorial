@@ -6,11 +6,11 @@ Avoid
 Nothing says unprofessional like a low resolution photo.
 ![Comparing images](./assets/side-by-side.png)
 
-You will receive an email once your pictures are ready. Click view photos or copy the link in your browser to see all your photos. Make sure to save the Download PIN which will give you access once they are ready for download.
+You will receive an email once your pictures are ready. Click view photos or copy the link in your browser to see all your photos. Make sure to save the Download PIN which will give you access to request a download.
 ![Step-1](./assets/step-1.png)
 
 
-You can browse and view all the highlights of your photoshoot. When you're down browsing, click the download arrow in the upper right hand corner to download the entire library.
+You can browse and view all the highlights of your photoshoot. When you're done browsing, click the download arrow in the upper right hand corner to download the entire library.
 ![Step-2](./assets/step-2.png)
 
 
@@ -28,7 +28,7 @@ You will be sent an email once your photos are ready for download. Click the but
 Almost there! Click the file link to download to your device.
 ![Step-5](./assets/step-5.png)
 
-Final product you can share and be proud of!
+Final product you can share and be proud of! No more sharing blurry pictures with friends and family. Impress employers and celebrate the captured moment(s).
 
 Quality reflects the talents of the photographer.
 
