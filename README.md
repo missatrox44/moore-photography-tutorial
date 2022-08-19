@@ -76,7 +76,7 @@
 
 ##
 #
-<center><span style="font-family: 'Tahoma'; font-size: 2em;">The final product is you can be proud of! No more sharing blurry pictures with friends and family. Impress employers and celebrate the captured moment(s). </span></center>
+<center><span style="font-family: 'Tahoma'; font-size: 2em;">The final product you can be proud of! No more sharing blurry pictures with friends and family. Impress employers and celebrate the captured moment(s). </span></center>
 
 
 <!-- ![Clear Picture](/assets/clear.jpeg) -->
@@ -90,7 +90,8 @@
 #
 
 ## Contributing
-[Sara Baqla](https://github.com/missatrox44)
+[Sara Baqla](https://github.com/missatrox44) <br>
+[Jeffrey Littleton](https://github.com/littletonjeffrey)
 
 ## Questions
 Github username: [missatrox44](https://github.com/missatrox44) <br>
