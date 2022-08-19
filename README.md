@@ -22,7 +22,7 @@
 
 ## <center><span style = "font-size: 3em; color: green;"><ins>**Step 1:**</ins></span></center> 
 
-<center><span style="font-size: 1.5em;">You will receive an email once your pictures are ready. Click view photos or copy the link in your browser to see all your photos. Make sure to save the Download PIN which will give you access to request a download.</span></center>
+<center> <span style="font-size: 1.5em;">You will receive an email once your pictures are ready. Click view photos or copy the link in your browser to see all your photos. Make sure to save the Download PIN which will give you access to request a download.</span> </center>
 <!-- ![Step-1](./assets/step-1.png) -->
 <figure>
     <center><img src="./assets/step-1.png" width: "80%vw" height: "auto"
