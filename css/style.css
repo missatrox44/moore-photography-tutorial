@@ -1,8 +1,27 @@
-body{
+body {
   text-align: center;
   margin: 5% 20%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
   width: 80%;
+  margin: 1.5em;
+  border: black solid 2px;
+  border-radius: 5%;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+.large-text {
+ font-size: 2em;
+}
+
+.smaller-headings {
+  font-size: 1.5em;
+  padding: 1em;
+  color: green;
+
 }
